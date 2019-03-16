@@ -1,0 +1,7 @@
+build*/
+README.1
+*.swp
+*.orig
+*.rej
+*~
+*vpp-demo*
