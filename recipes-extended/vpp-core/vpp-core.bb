@@ -26,7 +26,6 @@ inherit python-dir
 
 EXTRA_OECONF = " \
 	--disable-dependency-tracking \
-	--with-libtool-sysroot=/space/work/sdk/poky/sysroots/corei7-64-poky-linux \
 	--with-log2-cache-line-bytes=6  \
 	--srcdir=${S}/src \
 	--enable-perftool \
